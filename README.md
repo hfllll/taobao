@@ -1,5 +1,6 @@
 # 淘宝 Demo · 智能在线商城（PC 端 · 前端纯 Demo）
 
+测试自动化
 线上网址 https://hfllll.github.io/taobao/
 
 > 需求分析与系统设计任务单 · 第 4 组
